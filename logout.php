@@ -1,0 +1,1 @@
+// Hier is niets, check index.php voor logout code
